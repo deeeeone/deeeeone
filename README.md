@@ -31,7 +31,7 @@ Here are some of the cool things I’m working on or have built 👇 :contentRef
 | **netplayer** | UI video player component (React) | TypeScript |
 | **markd** | Fork of an advanced live Markdown editor (Svelte) | Svelte |
 
-> 🔗 *More projects and contributions are on my GitHub — check them out!* :contentReference[oaicite:2]{index=2}
+> 🔗 *More projects and contributions are on my GitHub — check them out!*
 
 ---
 
