@@ -13,8 +13,8 @@ I’m a hobbyist dev and lifelong learner passionate about building useful tools
 
 ## ⭐ GitHub Stats
 
-[![deeeeone’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=deeeeone&show_icons=true&theme=default)](https://github.com/deeeeone)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deeeeone&layout=compact&theme=default)](https://github.com/deeeeone)
+[![deeeeone’s GitHub Stats](https://github-stats-extended.vercel.app/api?username=deeeeone&show_icons=true&theme=default)](https://github.com/deeeeone)  
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=deeeeone&layout=compact&theme=default)](https://github.com/deeeeone)
 
 ---
 
