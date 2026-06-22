@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Diwan (deeeeone)
+# 👋 Hi there, I'm Deeone
 
 [![Profile Views](https://komarev.com/ghpvc/?username=deeeeone&style=flat)](https://github.com/deeeeone)  
 
